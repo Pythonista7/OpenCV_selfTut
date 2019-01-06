@@ -43,5 +43,13 @@ But make sure you putdown a meaning effort and upload anything you've written.
 
 ### Day 1
 * Insertion Sort in C.(Algorithms)
+	* Code file - [InsertionSort.c](https://github.com/Pythonista7/30_days_of_code-/blob/master/InsertionSort.c)
+	* Log File - [InsertionSort_log.txt](https://github.com/Pythonista7/30_days_of_code-/blob/master/InsertionSort_log.txt)
+
+
 
 * A Basic Clone of MS Paint using OpenCV in Python.(ImageProcessing)
+	* Code file - [PaintBrushwCV.py](https://github.com/Pythonista7/30_days_of_code-/blob/master/PaintBrushwCV.py)
+	* A sample below:
+	
+	![Drawing](https://github.com/Pythonista7/30_days_of_code-/blob/master/MonaLisa.png)
