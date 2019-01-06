@@ -1,0 +1,8 @@
+			Insertion Sort
+		Enter no of elements to sort:
+		 Enter 5 elements:
+
+		Sorting.............
+Sorted array elements:
+		129	1563	3452	3842	8723
+End
