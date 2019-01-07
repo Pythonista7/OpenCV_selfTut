@@ -53,3 +53,11 @@ But make sure you putdown a meaning effort and upload anything you've written.
 	* A sample below:
 	
 	![Drawing](https://github.com/Pythonista7/30_days_of_code-/blob/master/MonaLisa.png)
+	
+
+### Day 2
+* Core Operations with openCV.I would highly recommend checking out the openCV documentation.They also a really good python tutorial.Click [here](https://docs.opencv.org/3.1.0/d6/d00/tutorial_py_root.html#gsc.tab=0).Topics covered today Core Operation: Basic Operations , Arithmetic and Bitwise operations.
+	* Code File : [OCVCoreOps.py
+](https://github.com/Pythonista7/30_days_of_code-/blob/master/OCVCoreOps.py)
+	* Screen Shot :
+	![Creating a Mask](https://github.com/Pythonista7/30_days_of_code-/blob/master/assets/Day2.png)
