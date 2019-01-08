@@ -61,3 +61,10 @@ But make sure you putdown a meaning effort and upload anything you've written.
 ](https://github.com/Pythonista7/30_days_of_code-/blob/master/OCVCoreOps.py)
 	* Screen Shot :
 	![Creating a Mask](https://github.com/Pythonista7/30_days_of_code-/blob/master/assets/Day2.png)
+
+### Day 3
+* Today I was really curious to apply this to one of my [Other Project](https://github.com/Pythonista7/Sign_Language_Digit_Recognition).I've always wanted to do this.The prediciton acc might not be good but I learnt a lot of things about pipelining video data and other challenges.
+
+![ScrnShot](https://github.com/Pythonista7/30_days_of_code-/blob/master/assets/SignLangScrnShot.jpeg)
+
+The "mask" window is rescaled to input to the CNN("img" is the input to the CNN) and the mask overlayed with the prediction of what the hand-posture is, is show displayed on the top right of the "result" window.
