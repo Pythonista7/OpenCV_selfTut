@@ -70,3 +70,10 @@ But make sure you putdown a meaning effort and upload anything you've written.
 ![ScrnShot](https://github.com/Pythonista7/30_days_of_code-/blob/master/assets/SignLangScrnShot.jpeg)
 
 The "mask" window is rescaled to input to the CNN("img" is the input to the CNN) and the mask overlayed with the prediction of what the hand-posture is, is show displayed on the top right of the "result" window.
+
+### Day 4
+* OpenCV in python continued.Topics covered - *Geometric Transformations* and *Image Thresholding* .
+  Made a detailed and explainatory jupyter notebook which covers these 2 topics and implementation.
+  	* Notebook's <br>
+		     - [Geometric Trasformations .ipynb](https://github.com/Pythonista7/30_days_of_code-/blob/master/Geometric%20Trasformations%20.ipynb)<br>
+		     - [Image Thresholding.ipynb](https://github.com/Pythonista7/30_days_of_code-/blob/master/Image%20Thresholding.ipynb)
