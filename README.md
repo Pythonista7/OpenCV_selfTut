@@ -84,3 +84,10 @@ The "mask" window is rescaled to input to the CNN("img" is the input to the CNN)
   	* Notebook's <br>
 		    - [Smoothing Images.ipynb](https://github.com/Pythonista7/30_days_of_code-/blob/master/Smoothing%20Images.ipynb)<br>
 		    - [Morphological Transformations.ipynb](https://github.com/Pythonista7/30_days_of_code-/blob/master/Morphological%20Transformations.ipynb)
+
+### Day 6
+* OpenCV in python continued.Topics covered - *Geometric Transformations* and *Image Thresholding* .
+  Made a detailed and explainatory jupyter notebook.
+  	* Notebook's <br>
+		    - [Image Gradients](https://github.com/Pythonista7/30_days_of_code-/blob/master/Image%20Gradients.ipynb)<br>
+		    - [Canny Edge Detection](https://github.com/Pythonista7/30_days_of_code-/blob/master/Canny%20Edge%20Detection.ipynb)
