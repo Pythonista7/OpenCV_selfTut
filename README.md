@@ -40,7 +40,7 @@ Don't know where to begin?
 3) Move on to neich corners.Want to learn something new and specific goahead.
 But make sure you putdown a meaning effort and upload anything you've written.
 ***Dont miss a commit just because it ain't great.***
-
+4) Or start early and obtain the art of learning from documentation>will help you in the long run.<br>
 ### Day 1
 * Insertion Sort in C.(Algorithms)
 	* Code file - [InsertionSort.c](https://github.com/Pythonista7/30_days_of_code-/blob/master/InsertionSort.c)
@@ -91,3 +91,11 @@ The "mask" window is rescaled to input to the CNN("img" is the input to the CNN)
   	* Notebook's <br>
 		    - [Image Gradients](https://github.com/Pythonista7/30_days_of_code-/blob/master/Image%20Gradients.ipynb)<br>
 		    - [Canny Edge Detection](https://github.com/Pythonista7/30_days_of_code-/blob/master/Canny%20Edge%20Detection.ipynb)
+
+### Day 6
+* OpenCV in python continued.Topics covered - *Image Pyramids*.
+  Made a detailed and explainatory jupyter notebook.
+  	* Notebook's <br>
+	             - [Image Pyramids](https://github.com/Pythonista7/30_days_of_code-/blob/master/Image%20Pyramids.ipynb)
+		       <br>Ambitiously failed tring to create the ultimate football machine.<br>
+		       ![AmbitiousFail](https://github.com/Pythonista7/30_days_of_code-/blob/master/assets/ambitiousFail.jpg)
