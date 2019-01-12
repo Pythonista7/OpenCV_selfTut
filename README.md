@@ -92,7 +92,7 @@ The "mask" window is rescaled to input to the CNN("img" is the input to the CNN)
 		    - [Image Gradients](https://github.com/Pythonista7/30_days_of_code-/blob/master/Image%20Gradients.ipynb)<br>
 		    - [Canny Edge Detection](https://github.com/Pythonista7/30_days_of_code-/blob/master/Canny%20Edge%20Detection.ipynb)
 
-### Day 6
+### Day 7
 * OpenCV in python continued.Topics covered - *Image Pyramids*.
   Made a detailed and explainatory jupyter notebook.
   	* Notebook's <br>
